@@ -6,12 +6,6 @@ Greetings, fellow tech enthusiasts! I'm Fabian Amino, a **Full Stack Sorcerer** 
 
 ---
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/156438150?s=400&u=5b24dfb79fcd370796937d52bca7393e507cedf5&v=4)" alt="Fabian Amino's Profile Image">
-</p>
-
----
-
 ### ✨ About Me
 
 - 🚀 Passionate about Full Stack Development and Front-end Alchemy
