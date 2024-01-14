@@ -87,3 +87,6 @@ I am not just a coder; I am a wizard in the realm of game development. Recently,
 ---
 
 Let the magic unfold! 🚀✨
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabianamino&theme=dark&background=000000)](https://git.io/streak-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianamino&layout=compact&theme=vision-friendly-dark)](https://github.com/fabianamino/github-readme-stats)  ![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminofabian&show_icons=true&theme=transparent)                                   
+
