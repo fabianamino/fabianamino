@@ -42,7 +42,7 @@ Three years ago, I embarked on a journey to turn my passion for coding into a ca
 
 ### 💬 Let's Connect
 
-🌐 [LinkedIn](https://www.linkedin.com/in/fabian-amino-b6bba5253/) | 🐦 [Twitter](https://twitter.com/your-twitter-handle) | 📘 [Facebook](https://www.facebook.com/your-facebook-handle) | 🌐 [Website](https://www.yourwebsite.com/)
+🌐 [LinkedIn](https://www.linkedin.com/in/fabian-amino-b6bba5253/) | 🐦 [Twitter](https://twitter.com/amino_fabian) | 📘 [Facebook](https://www.facebook.com/your-facebook-handle) | 🌐 [Website](https://www.yourwebsite.com/)
 
 ---
 
