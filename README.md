@@ -89,7 +89,7 @@ Three years ago, I embarked on a journey to turn my passion for coding into a ca
 
 ### 📫 Reach Out
 
-📧 Email: sayhello@aminofabian.com
+📧 Email: sayhello@aminofabian.com || aminofabian@gmail.com
 
 ---
 
