@@ -36,7 +36,7 @@ Greetings, fellow tech enthusiasts! I'm Fabian Amino, a **Full Stack Sorcerer** 
 
 ---
 
-### 🪄 Magic Toolkit
+## 🪄 Magic Toolkit
 
 Languages and Frameworks
 💻 JavaScript (Node.js, React)
@@ -44,7 +44,7 @@ Languages and Frameworks
 🎨 Dart, Next.js, Nest.js
 🐍 Python (Experimenting with this mystical language)
 
-#### Databases
+### Databases
 🗃️ MongoDB
 📊 PostgreSQL
 🚀 Firebase
@@ -52,14 +52,14 @@ Languages and Frameworks
 ![image](https://github.com/fabianamino/fabianamino/assets/156438150/673548e7-e1fd-4431-80d0-b5bbf8956d53)
 MySql
 
-#### UX/UI Design Tools
+### UX/UI Design Tools
 🎨 Figma
 ✏️ Sketch
 🖌️ Adobe XD
 🛠️ InVision
 🚀 Zeplin
 
-#### Tools and Skills
+### Tools and Skills
 
 - 🧙‍♂️ Full Stack Sorcery
 - 🎮 Unity Game Development
