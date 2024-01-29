@@ -33,7 +33,6 @@ Greetings, fellow tech enthusiasts! I'm Fabian Amino, a **Full Stack Sorcerer** 
 ---
 
 ### ✨ About Me
-
 - 🚀 Passionate about Full Stack Development and Front-end Alchemy
 - 🌟 Constantly exploring new spells in the magical world of coding
 - 🧠 Always learning and pushing the boundaries of what's possible
@@ -42,7 +41,6 @@ Greetings, fellow tech enthusiasts! I'm Fabian Amino, a **Full Stack Sorcerer** 
 ---
 
 ## 🪄 Magic Toolkit
-
 Languages and Frameworks
 💻 JavaScript (Node.js, React)
 📱 Flutter, React Native
