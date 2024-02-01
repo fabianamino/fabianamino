@@ -71,7 +71,6 @@ MySql
 - 📐 UI/UX Enchantment
 
 ---
-
 ### 📜 My Story
 
 Three years ago, I embarked on a journey to turn my passion for coding into a career. Since then, I've been spellbound by the magic of technology. As a Full Stack Sorcerer, I've had the privilege of working with various enchanting technologies, each adding a unique spell to my repertoire.
