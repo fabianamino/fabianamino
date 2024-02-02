@@ -38,7 +38,6 @@ Greetings, fellow tech enthusiasts! I'm Fabian Amino, a **Full Stack Sorcerer** 
 - 🎨 Crafting visually stunning interfaces that captivate and enchant
 
 ---
-
 ## 🪄 Magic Toolkit
 Languages and Frameworks:
 
@@ -46,7 +45,6 @@ Languages and Frameworks:
 📱 Flutter, React Native
 🎨 Dart, Next.js, Nest.js
 🐍 Python (Experimenting with this mystical language)
-
 ### Databases
 🗃️ MongoDB
 📊 PostgreSQL
