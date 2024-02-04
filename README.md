@@ -34,7 +34,6 @@ Greetings, fellow tech enthusiasts! I'm Fabian Amino, a **Full Stack Sorcerer** 
 - 🌟 Constantly exploring new spells in the magical world of coding
 - 🧠 Always learning and pushing the boundaries of what's possible
 - 🎨 Crafting visually stunning interfaces that captivate and enchant
-
 ---
 ## 🪄 Magic Toolkit
 Languages and Frameworks:
