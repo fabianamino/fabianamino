@@ -38,6 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🎨 Crafting visually stunning interfaces that captivate and enchant
 ---
 ## 🪄 Magic Toolkit
+
 Languages and Frameworks:
 
 💻 JavaScript (Node.js, React)
