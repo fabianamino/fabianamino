@@ -30,8 +30,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 
 ---
 **Greetings, fellow tech enthusiasts! I'm Fabian Amino, a **Full Stack Sorcerer** weaving spells in the realm of technology, with a special affinity for crafting enchanting front-end experiences. Join me on this magical journey as we explore the endless possibilities of coding and spellbinding creations.
-
-**---
+**
+---
 ### ✨ About Me
 - 🚀 Passionate about Full Stack Development and Front-end Alchemy
 - 🌟 Constantly exploring new spells in the magical world of coding
