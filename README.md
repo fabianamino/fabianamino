@@ -40,7 +40,7 @@ Greetings, fellow tech enthusiasts! I'm Fabian Amino, a Full Stack Sorcerer weav
 - 🎨 Crafting visually stunning interfaces that captivate and enchant
 ---
 
-## 🪄 Magic Toolkit
+### 🪄 Magic Toolkit
 
 Languages and Frameworks:
 
