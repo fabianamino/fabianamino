@@ -47,6 +47,7 @@ Languages and Frameworks:
 📱 Flutter, React Native
 🎨 Dart, Next.js, Nest.js
 🐍 Python (Experimenting with this mystical language)
+
 ### Databases
 🗃️ MongoDB
 📊 PostgreSQL
