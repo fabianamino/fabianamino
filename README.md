@@ -54,6 +54,7 @@ Languages and Frameworks:
 📊 PostgreSQL
 🚀 Firebase
 🗄️ SQLite
+
 ![image](https://github.com/fabianamino/fabianamino/assets/156438150/673548e7-e1fd-4431-80d0-b5bbf8956d53)
 MySql
 
