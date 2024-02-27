@@ -1,6 +1,6 @@
 # Fabian Amino   <img src="https://komarev.com/ghpvc/?username=fabianamino&style=flat-square&color=blue" alt=""/>
 
-## 🧙 Full Stack Sorcerer with a Flair for Frontend Alchemy
+### 🧙 Full Stack Sorcerer with a Flair for Frontend Alchemy
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
